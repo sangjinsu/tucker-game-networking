@@ -9,7 +9,7 @@
     - 각 클라이언트가 관리해야하는 커넥션이 많음
     - 사용자가 나가더라도 게임이 중단되지 않는다
 
-## Realy Server
+## Relay Server
 
 Client - Server - Client
 
